@@ -3,6 +3,6 @@
 
 int main() {
 
-    Ogay::Game game(ScreenWidth, ScreenHeight, "Ogay");
+    Ogay::Game game(ScreenWidth, ScreenHeight, "Simple State Change");
     return 0;
 }
