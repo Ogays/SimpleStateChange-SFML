@@ -5,8 +5,25 @@
 <img width="211" height="280" alt="Screenshot From 2025-08-06 22-42-19" src="https://github.com/user-attachments/assets/ae9239f8-8ae7-4a82-9b4c-a574cdb6c772" />
 
 ## Simple State Changes
-SFML state changes write in c++.
-Using unique pointer
+Simple SFML Application write in c++
+This app use shared_pointer and unique_pointer to change between states.
+
+You need :
+* cmake min version 3.31.6
+* C++14
+
+
+```
+$ git clone https://github.com/Ogays/SimpleStateChange-SFML.git
+$ cd SimpleStateChange-SFML/
+$ mkdir build/
+$ cd build/
+$ cmake -S .. -B .
+$ make
+$ cp SimpleStateChanges ..
+$ cd ../
+$ ./SimpleStateChanges
+```
 
 ## Credits:
 [Flappy Bird SFML] (https://www.udemy.com/course/flappy-bird-sfml/)
