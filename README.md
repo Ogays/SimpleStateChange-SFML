@@ -11,6 +11,7 @@ This app use shared_pointer and unique_pointer to change between states.
 You need :
 * cmake min version 3.31.6
 * C++14
+* Linux Ubuntu
 
 
 ```
@@ -31,3 +32,4 @@ $ ./SimpleStateChanges
 ## Support:
 Please Support me at:
 [https://buymeacoffee.com/asaugi](https://buymeacoffee.com/asaugi)
+[Email :](saugi.axmad@gmail.com)
