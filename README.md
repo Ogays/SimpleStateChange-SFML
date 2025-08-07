@@ -33,4 +33,4 @@ $ ./SimpleStateChanges
 Please Support me at:
 [https://buymeacoffee.com/asaugi](https://buymeacoffee.com/asaugi)
 
-Email :[saugi.axmad@gmail.com] (saugi.axmad@gmail.com)
+Email : [saugi.axmad@gmail.com] (saugi.axmad@gmail.com)
